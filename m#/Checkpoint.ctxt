@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Checkpoint
+comment1.params=location\ type\ averageGradient\ length
+comment1.target=Checkpoint(double,\ CheckpointType,\ java.lang.Double,\ java.lang.Double)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=double\ getLocation()
+comment4.params=
+comment4.target=CheckpointType\ getType()
+comment5.params=
+comment5.target=java.lang.Double\ getAverageGradient()
+comment6.params=
+comment6.target=java.lang.Double\ getLength()
+comment7.params=
+comment7.target=boolean\ isMountain()
+numComments=8

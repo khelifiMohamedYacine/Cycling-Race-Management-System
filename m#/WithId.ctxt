@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WithId
+comment1.params=
+comment1.target=WithId()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=withIds
+comment3.target=int[]\ toIds(java.util.List)
+numComments=4

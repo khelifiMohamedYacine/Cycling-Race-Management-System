@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckpointResult
+comment1.params=checkpoint\ time
+comment1.target=CheckpointResult(Checkpoint,\ java.time.LocalTime)
+comment2.params=
+comment2.target=Checkpoint\ getCheckpoint()
+comment3.params=
+comment3.target=java.time.LocalTime\ getTime()
+numComments=4

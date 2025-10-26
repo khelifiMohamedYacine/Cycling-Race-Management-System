@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Rider
+comment1.params=name\ yearOfBirth
+comment1.target=Rider(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getYearOfBirth()
+numComments=5
