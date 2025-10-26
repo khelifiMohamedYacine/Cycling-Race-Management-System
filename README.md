@@ -14,7 +14,7 @@
 ---
 
 ## 🏁 Overview
-This project implements a **Cycling Race Management System** written in **C++** as part of the ECM1410 module at the **University of Exeter**.  
+This project implements a **Cycling Race Management System** written in **Jaca** as part of the ECM1410 module at the **University of Exeter**.  
 The goal is to design and develop a modular, object-oriented system capable of managing race events, teams, and cyclists efficiently.
 
 The coursework demonstrates:
@@ -27,35 +27,30 @@ The coursework demonstrates:
 
 ## 📁 Project Structure
 ```
+
 Cycling-Race-Management-System/
 │
 ├── src/
-│   ├── main.cpp
-│   ├── Cyclist.cpp
-│   ├── Team.cpp
-│   ├── Race.cpp
-│   └── Utilities.cpp
-│
-├── include/
-│   ├── Cyclist.h
-│   ├── Team.h
-│   ├── Race.h
-│   └── Utilities.h
+│   ├── main/
+│   │   ├── Race.java
+│   │   ├── Team.java
+│   │   ├── Cyclist.java
+│   │   ├── Stage.java
+│   │   └── Utilities.java
+│   │
+│   └── test/
+│       ├── RaceTest.java
+│       ├── TeamTest.java
+│       └── CyclistTest.java
 │
 ├── data/
 │   ├── teams.txt
 │   ├── cyclists.txt
 │   └── results.txt
 │
-├── tests/
-│   ├── test_race.cpp
-│   ├── test_team.cpp
-│   └── test_cyclist.cpp
-│
-├── Makefile
 └── README.md
-```
 
+````
 ---
 
 ## ⚙️ Features
@@ -126,14 +121,14 @@ Through this coursework, the following learning objectives are demonstrated:
 - ✅ Quality of object-oriented design  
 - ✅ Code clarity and documentation  
 - ✅ Efficiency and maintainability  
-- ✅ Proper use of C++ language features  
+
 
 ---
 
 ## 👤 Author Information
 **Khelifi Mohamed Yacine**  
 BSc Computer Science, University of Exeter  
-Email: [khelifimohamedyacine@outlook.com](mailto:khelifimohamedyacine@outlook.com)
+Email: [khelifiyacine36@gmail.com](mailto:khelifiyacine36@gmail.com)
 
 ---
 
