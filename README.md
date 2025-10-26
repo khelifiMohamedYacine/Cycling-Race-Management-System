@@ -133,4 +133,4 @@ Email: [khelifiyacine36@gmail.com](mailto:khelifiyacine36@gmail.com)
 
 ---
 
-*This project demonstrates proficiency in C++ programming and object-oriented design as part of the ECM1410 coursework requirements.*
+*This project demonstrates proficiency in Java programming and object-oriented design.*
