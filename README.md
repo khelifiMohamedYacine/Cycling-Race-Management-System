@@ -94,19 +94,20 @@ Race results saved successfully!
 ---
 
 ## 🧩 Technologies Used
-- **Language**: C++17  
-- **Tools**: GCC / g++ compiler  
-- **Build System**: Makefile  
-- **Testing**: Manual + Unit tests (optional)  
+**Language:** Java 17  
+**Tools:** JDK, IntelliJ IDEA / Eclipse / VS Code  
+**Build System:** Makefile or Gradle (depending on setup)  
+**Testing:** JUnit (Unit Testing)
 
 ---
 
 ## 📊 Learning Outcomes
 Through this coursework, the following learning objectives are demonstrated:
-- Design and implementation of modular **object-oriented C++ programs**  
-- Use of **inheritance, polymorphism**, and **abstraction**  
-- Development of reusable and maintainable software structures  
-- Application of **file handling** and **data persistence** in C++  
+
+- Design and implementation of modular **object-oriented Java** programs  
+- Application of **inheritance**, **polymorphism**, and **encapsulation**  
+- Development of **reusable and maintainable** software architectures  
+- Implementation of **file handling**, **data persistence**, and **simulation logic** in Java  
 
 ---
 
