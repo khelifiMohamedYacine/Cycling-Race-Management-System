@@ -81,16 +81,6 @@ Cycling-Race-Management-System/
 ---
 
 ## 🧠 Example Usage
-### Compilation
-```bash
-make
-```
-
-### Run the Program
-```bash
-./cycling_race
-```
-
 ### Example Interaction
 ```
 === Cycling Race Management System ===
