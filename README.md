@@ -9,7 +9,6 @@
 - **Module Code**: ECM1410  
 - **Module Title**: Object-Oriented Programming  
 - **Academic Year**: 2024/25  
-- **Submission Deadline**: *[Insert submission date]*  
 - **Author**: Khelifi Mohamed Yacine  
 
 ---
